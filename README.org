@@ -4,7 +4,7 @@ A portable version of Franz's Opensource HTML Parser
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/gwkkwg/cl-html-parse.git   |
-| commit  | 81d32f8  |
+| commit  | 9e79bc3  |
 | systems | cl-html-parse |
 |---------+-------------------------------------------|
 
